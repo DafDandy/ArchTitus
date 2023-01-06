@@ -2,7 +2,6 @@
 autojump
 brave-bin
 dxvk-bin
-nerd-fonts-fira-code
 nordic-darker-standard-buttons-theme
 nordic-darker-theme
 nordic-kde-git
