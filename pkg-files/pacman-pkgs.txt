@@ -18,11 +18,8 @@ automake
 bind
 bison
 btrfs-progs
-celluloid
 cmatrix
-code
 cronie
-cups
 dialog
 dmidecode
 dnsmasq
@@ -54,7 +51,6 @@ ntfs-3g
 ntp
 openbsd-netcat
 openssh
-os-prober
 p7zip
 patch
 picom
