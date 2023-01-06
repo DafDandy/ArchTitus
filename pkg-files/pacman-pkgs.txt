@@ -9,7 +9,6 @@ xterm
 binutils
 dosfstools
 linux-headers
-noto-fonts-emoji
 usbutils
 xdg-user-dirs
 --END OF MINIMAL INSTALL--
@@ -63,11 +62,7 @@ python-pyqt5
 python-pip
 steam
 swtpm
-terminus-font
 traceroute
-ttf-droid
-ttf-hack
-ttf-roboto
 ufw
 unrar
 unzip
@@ -77,5 +72,3 @@ wine-mono
 winetricks
 zip
 zsh
-zsh-syntax-highlighting
-zsh-autosuggestions
