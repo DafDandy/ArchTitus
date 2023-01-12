@@ -13,3 +13,4 @@ plasma-nm
 plasma-pa
 systemsettings
 xdg-desktop-portal-kde
+unzip
